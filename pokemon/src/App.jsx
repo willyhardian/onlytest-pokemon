@@ -8,6 +8,10 @@ function App() {
 
     return (
         <>
+            <div>
+                <h1>Trainer</h1>
+                <p>satoshi doe</p>
+            </div>
             <h1>Pokemon List</h1>
             <p>Pikachu</p>
             <p>Bulbasur</p>
