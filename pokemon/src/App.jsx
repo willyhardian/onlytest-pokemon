@@ -9,6 +9,8 @@ function App() {
     return (
         <>
             <h1>Pokemon List</h1>
+            <p>Pikachu</p>
+            <p>Bulbasur</p>
         </>
     );
 }
