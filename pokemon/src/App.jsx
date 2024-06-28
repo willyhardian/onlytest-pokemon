@@ -12,6 +12,10 @@ function App() {
                 <h1>Trainer</h1>
                 <p>satoshi doe</p>
             </div>
+            <div>
+                <h2>search pokemon</h2>
+                <input type="text" />
+            </div>
             <h1>Pokemon List</h1>
             <p>Pikachu</p>
             <p>Bulbasur</p>
